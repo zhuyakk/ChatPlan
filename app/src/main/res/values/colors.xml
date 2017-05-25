@@ -3,4 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="action_bar_bg">#C0000000</color>
+    <color name="action_bar_text_color">#FFFFFF</color>
+    <color name="chat_list_bg">#D8D8D8</color>
 </resources>

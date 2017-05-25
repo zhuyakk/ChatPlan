@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ChatPlan</string>
+    <string name="send">Send</string>
+    <string name="send_successful">Send Successful!</string>
+
+
 </resources>
